@@ -1,5 +1,5 @@
 
-Python data Science is a developer, I program many different interesting projects, I love low-level things like Linux drivers. One of the most interesting project is my life))
+Python data Science developer, I program many different interesting projects, I love low-level things like C, assembly, Linux drivers. One of the most interesting project, is my life))
 <!--
 **MaxsudAmirxanov/MaxsudAmirxanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
